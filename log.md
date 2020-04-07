@@ -15,3 +15,11 @@
 **Thoughts:** I quite like the way Golang's standard library supports command-line flags. I may try build a different utility soon to play around with another API, and maybe work with some less depressing data. Not quite sure yet, but I know it'll be fun and probably have something to do with cats!
 
 **Link to work:** [covid19](https://github.com/devillexio/covid19)
+
+### Day 3: April 6, 2020
+
+**Today's Progress**: Did a Binary Search exercise on the #Golang track of exercism. Really can't recommend @exercism_io enough. Great platform with excellent humans!
+
+**Thoughts:** It's been a while since I've done a Binary Search. Was a good opportunity to use a `for` and `switch`.
+
+**Link to work:** [exercism.io](https://exercism.io/tracks/go/exercises/binary-search/solutions/8b8baa3968c442aeb474ad3b1d61ccd1)

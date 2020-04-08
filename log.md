@@ -23,3 +23,11 @@
 **Thoughts:** It's been a while since I've done a Binary Search. Was a good opportunity to use a `for` and `switch`.
 
 **Link to work:** [exercism.io](https://exercism.io/tracks/go/exercises/binary-search/solutions/8b8baa3968c442aeb474ad3b1d61ccd1)
+
+### Day 4: April 7, 2020
+
+**Today's Progress**: Read the guides for Battlesnake and cloned the starter project for Go. Excited to get into the details over the coming days and joining the various tournament streams on Twitch!
+
+**Thoughts:** I was really bummed out when Battlesnake 2020 was cancelled because of the _pandemic that shall not be named_. Luckily the decision was made to make it an all online event!
+
+**Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)

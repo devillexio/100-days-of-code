@@ -31,3 +31,11 @@
 **Thoughts:** I was really bummed out when Battlesnake 2020 was cancelled because of the _pandemic that shall not be named_. Luckily the decision was made to make it an all online event!
 
 **Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)
+
+### Day 5: April 8, 2020
+
+**Today's Progress**: Spent time reading up on different approaches for playing the game of snake. Also watched interviews with previous tournament winners. Definitely going to have to start simple. Will look into basic obstacle avoidance next.
+
+**Thoughts:** I'm both excited and overwhelmed by the challenge. Since this is the first time I'm doing something like this, I'm going to take the advice of one of the contestents and start with very simple obstable avoidance.
+
+**Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)

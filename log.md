@@ -39,3 +39,11 @@
 **Thoughts:** I'm both excited and overwhelmed by the challenge. Since this is the first time I'm doing something like this, I'm going to take the advice of one of the contestents and start with very simple obstable avoidance.
 
 **Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)
+
+### Day 6: April 9, 2020
+
+**Today's Progress**: Got "The Go Programming Language" book and started reading the chapter on testing. I thought I might as well start dabbling with unit testing as well!
+
+**Thoughts:** Happy that I bought a couple of Golang books. It's been a few years since I've read programming books. I usually find them tedious and often outdated. Luckily with Golang's philosophy of keeping the language relatively simple and stable, the books are still very relevant even after a few years.
+
+**Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)

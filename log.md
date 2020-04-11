@@ -47,3 +47,9 @@
 **Thoughts:** Happy that I bought a couple of Golang books. It's been a few years since I've read programming books. I usually find them tedious and often outdated. Luckily with Golang's philosophy of keeping the language relatively simple and stable, the books are still very relevant even after a few years.
 
 **Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)
+
+### Day 7: April 10, 2020
+
+**Today's Progress**: Took the day pretty easy and continued to read "The Go Programming Language." Interesting reading about the origin of #Golang and the language that inspired it
+
+**Thoughts:** I'm really enjoying learning about the origins of Golang and what I would describe as the ethos of the language. It really reminds me of why I fell in love with programming to begin with.

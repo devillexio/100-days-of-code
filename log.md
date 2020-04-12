@@ -53,3 +53,11 @@
 **Today's Progress**: Took the day pretty easy and continued to read "The Go Programming Language." Interesting reading about the origin of #Golang and the language that inspired it
 
 **Thoughts:** I'm really enjoying learning about the origins of Golang and what I would describe as the ethos of the language. It really reminds me of why I fell in love with programming to begin with.
+
+### Day 8: April 9, 2020
+
+**Today's Progress**: I watched the Battlesnake tutorial on getting started with Go, and felt inspired to complete a simple snake. I also added tests, which was new and fun! I decided to enter the Rookie division for the "Stay Home and Code" Battlesnake tournament, 'cause why not!
+
+**Thoughts:** I hit the reset and started from scratch with my Battlesnake. I chose to not worry about hunting food or avoiding enemies and instead focus on just avoiding walls. I wasn't going to enter this year's competition but thought I have nothing to lose.
+
+**Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)

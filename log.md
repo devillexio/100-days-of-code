@@ -61,3 +61,11 @@
 **Thoughts:** I hit the reset and started from scratch with my Battlesnake. I chose to not worry about hunting food or avoiding enemies and instead focus on just avoiding walls. I wasn't going to enter this year's competition but thought I have nothing to lose.
 
 **Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)
+
+### Day 9: April 9, 2020
+
+**Today's Progress**: Wrote some pseudocode for the next iteration of the Battlesnake I'm working on. The next thing to add is some basic collision detection. Having a lot of fun with it.
+
+**Thoughts:** I'm really enjoying Golang and Battlesnake. I'm excited about adding some more complicated logic over the coming days. I also like the fact that I'm adding tests as I go, so I don't break existing logic while working on new features.
+
+**Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)

@@ -54,7 +54,7 @@
 
 **Thoughts:** I'm really enjoying learning about the origins of Golang and what I would describe as the ethos of the language. It really reminds me of why I fell in love with programming to begin with.
 
-### Day 8: April 9, 2020
+### Day 8: April 11, 2020
 
 **Today's Progress**: I watched the Battlesnake tutorial on getting started with Go, and felt inspired to complete a simple snake. I also added tests, which was new and fun! I decided to enter the Rookie division for the "Stay Home and Code" Battlesnake tournament, 'cause why not!
 
@@ -62,10 +62,20 @@
 
 **Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)
 
-### Day 9: April 9, 2020
+### Day 9: April 12, 2020
 
 **Today's Progress**: Wrote some pseudocode for the next iteration of the Battlesnake I'm working on. The next thing to add is some basic collision detection. Having a lot of fun with it.
 
 **Thoughts:** I'm really enjoying Golang and Battlesnake. I'm excited about adding some more complicated logic over the coming days. I also like the fact that I'm adding tests as I go, so I don't break existing logic while working on new features.
 
 **Link to work:** [sawtooth](https://github.com/devillexio/sawtooth)
+
+### Day 10: April 13, 2020
+
+**Today's Progress**: Finished chapter 1 of The Go Programming Language. Also decided to create another Battlesnake with a slightly more sophisticated strategy. Really enjoying applying TDD to the process!
+
+**Thoughts:** I'm taking my time with the book (The Go Programming Language). I want to absorb as much as possible and also give myself a chance to try all of the challenges at the end of each section.
+
+I also decided to rather create another snake than to update the wall-hugging Sawtooth. This will give me more freedom to start from scratch and to see what happens.
+
+**Link to work:** [rockmaw](https://github.com/devillexio/rockmaw)

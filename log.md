@@ -79,3 +79,11 @@
 I also decided to rather create another snake than to update the wall-hugging Sawtooth. This will give me more freedom to start from scratch and to see what happens.
 
 **Link to work:** [rockmaw](https://github.com/devillexio/rockmaw)
+
+### Day 11: April 14, 2020
+
+**Today's Progress**: Added wall avoidance to the Battlesnake, as well as calculating where the nearest food is. Continuing to also add unit tests as I go along. So far so good!
+
+**Thoughts:** Enjoying working on Battlesnake a lot. I'm quite excited to finish up the logic and see how it performs against my previous, simpler version. 
+
+**Link to work:** [rockmaw](https://github.com/devillexio/rockmaw)

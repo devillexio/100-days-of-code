@@ -87,3 +87,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Thoughts:** Enjoying working on Battlesnake a lot. I'm quite excited to finish up the logic and see how it performs against my previous, simpler version. 
 
 **Link to work:** [rockmaw](https://github.com/devillexio/rockmaw)
+
+### Day 12: April 15, 2020
+
+**Today's Progress**: Finished the first version of the Battlesnake and entered it into the Rookie league! The best thing was I only worked off of my unit tests and it worked perfectly on the first try after deployment! #ThePowerOfTests
+
+**Thoughts:** I was super surprised and happy to see that the Battlesnake worked as intended first time after deployment. It just goes to show the importance of unit tests, and the power of TDD! I think I've solved most of the easy tasks and looking forward to tackling some of the more complicated problems.
+
+**Link to work:** 
+- [rockmaw](https://github.com/devillexio/rockmaw)
+- See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)

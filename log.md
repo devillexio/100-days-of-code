@@ -97,3 +97,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:** 
 - [rockmaw](https://github.com/devillexio/rockmaw)
 - See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)
+
+### Day 13: April 16, 2020
+
+**Today's Progress**: Added head-to-head collision avoidance to the Battlesnake. Struggling to figure out how to prevent the snake from blocking itself in, but I'll get there!
+
+**Thoughts:** Today was equally rewarding and frustrating. Made progress on both head-to-head collision detection and avoiding boxing in oneself. Still have some work to do on the latter.
+
+**Link to work:** 
+- [rockmaw](https://github.com/devillexio/rockmaw)
+- See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)

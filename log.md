@@ -107,3 +107,19 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:** 
 - [rockmaw](https://github.com/devillexio/rockmaw)
 - See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)
+
+### Day 14: April 17, 2020
+
+**Today's Progress**: Added logic to prevent the snake from being trapped. Not completely happy with the way it turned out. Still had fun and learned a lot though!
+
+**Thoughts:** I really don't like the latest code I've written. I think I'll give it a few days and then revisit it.
+
+**Link to work:** 
+- [rockmaw](https://github.com/devillexio/rockmaw)
+- See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)
+
+### Day 15: April 18, 2020
+
+**Today's Progress**: Took it easy and continued reading Chapter 2 of "The Go Programming Language".
+
+**Thoughts:** The more I read this book, the more I just love Go. I think you need to know a couple of languages, and have been coding for a few years to fully appreciate Golang's design choices. Before trying Go I read a lot of "Go vs <insert language here>" articles, but I realise now these articles often bashed Golang without fully understanding it's purpose.

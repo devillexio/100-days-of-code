@@ -123,3 +123,9 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Today's Progress**: Took it easy and continued reading Chapter 2 of "The Go Programming Language".
 
 **Thoughts:** The more I read this book, the more I just love Go. I think you need to know a couple of languages, and have been coding for a few years to fully appreciate Golang's design choices. Before trying Go I read a lot of "Go vs <insert language here>" articles, but I realise now these articles often bashed Golang without fully understanding it's purpose.
+
+### Day 16: April 19, 2020
+
+**Today's Progress**: Finished reading Chapter 2 of "The Go Programming Language". I also watched a live stream by Battlesnake where they discussed some easy strategies and tactics. I'm quite keen to apply some of these to the snake I'm working on.
+
+**Thoughts:** Really enjoyed the presentation by Aurora Walker during the Battlesnake live stream. I enjoyed her methodical approach to tackling one problem at a time, and I'm also keen to give some of the strategies a try.

@@ -129,3 +129,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Today's Progress**: Finished reading Chapter 2 of "The Go Programming Language". I also watched a live stream by Battlesnake where they discussed some easy strategies and tactics. I'm quite keen to apply some of these to the snake I'm working on.
 
 **Thoughts:** Really enjoyed the presentation by Aurora Walker during the Battlesnake live stream. I enjoyed her methodical approach to tackling one problem at a time, and I'm also keen to give some of the strategies a try.
+
+### Day 17: April 20, 2020
+
+**Today's Progress**: Did some cleanup of the code after attending the Battlesnake workshop by Aurora Walker. Excited to add some additional strategies over the next few days.
+
+**Thoughts:** I had some time to reflect on Aurora's talk and she really did a good job of breaking down the concepts - got me re-energized to make some improvements to my Battlesnake code.
+
+**Link to work:** 
+- [rockmaw](https://github.com/devillexio/rockmaw)
+- See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)

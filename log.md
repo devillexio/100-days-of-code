@@ -139,3 +139,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:** 
 - [rockmaw](https://github.com/devillexio/rockmaw)
 - See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)
+
+### Day 18: April 21, 2020
+
+**Today's Progress**: Continued working on refactoring the Battlesnake code. Completed the code cleanup and started working on a second strategy.
+
+**Thoughts:** Slow and steady wins the race. Not making huge progress every day, but happy that at least some progress is being made.
+
+**Link to work:** 
+- [rockmaw](https://github.com/devillexio/rockmaw)
+- See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)

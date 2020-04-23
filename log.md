@@ -149,3 +149,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:** 
 - [rockmaw](https://github.com/devillexio/rockmaw)
 - See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)
+
+### Day 19: April 22, 2020
+
+**Today's Progress**: Fixed up the second strategy. There are still some bugs, but I'm pretty happy with the progress. It should be good enough for the tournament this weekend.
+
+**Thoughts:** It's really true what they say. Battlesnake is easy to understand, but very difficult to master. Lots of fun, with just a touch of frustration. :-)
+
+**Link to work:** 
+- [rockmaw](https://github.com/devillexio/rockmaw)
+- See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)

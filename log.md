@@ -159,3 +159,39 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:** 
 - [rockmaw](https://github.com/devillexio/rockmaw)
 - See "Rockworm" on [Battlesnake.io](https://play.battlesnake.com/arena/stay-home-and-code-rookie/)
+
+### Day 20: April 23, 2020
+
+**Today's Progress**: Reading Chapter 3 of The Go Programming Language. Busy learning about the basic types.
+
+**Thoughts:** The last few days have been tough and it's been difficult staying motivated. This is probably mostly due to what's going on with the world. Just taking everything day by day.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 21: April 24, 2020
+
+**Today's Progress**: Continued reading Chapter 3 and attended some excellent Battlesnake workshops.
+
+**Thoughts:** Really impressed with the Battlesnake community and the quality of the workshops they organized.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 22: April 25, 2020
+
+**Today's Progress**: Watched the Battlesnake Stay Home and Code live event and finished Chapter 3 of “The Go Programming Language”. Well done to all the teams that competed, and congratulations to the winners! 
+
+**Thoughts:** Quite impressed with the quality of the Battlesnake tournament and I'm happy that I got to take part, even though my snake's performance was pretty dismal. :-)
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 23: April 26, 2020
+
+**Today's Progress**: Continued reading The Go Programming Language. Busy with Chapter 4 now. Really enjoying the ebook version but thinking of getting a physical copy too. This is such a great reference to have around. 
+
+**Thoughts:** I'm surprised at how much I'm learning from this book. I'm never been a big fan of learning programming from books, but I've been really surprised by this one.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book

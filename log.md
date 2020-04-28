@@ -195,3 +195,21 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
+
+### Day 24: April 27, 2020
+
+**Today's Progress**: Continued with Chapter 4. Covered maps, structs and JSON processing.
+
+**Thoughts:** I'm again reminded that there's just no substitute for a good book on a specific topic. Well done to the authors. Thoroughly enjoying this book.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 25: April 28, 2020
+
+**Today's Progress**: Finished Chapter 4 and learned about the pretty amazing templating capabilities of the standard library's text/template and html/template packages!
+
+**Thoughts:** My mind was blown that these are standard packages in Golang. The effort we've spent implementing this by hand in JavaScript/Node.JS in the past, could definitely have been better better spent elsewhere.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book

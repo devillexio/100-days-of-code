@@ -213,3 +213,12 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
+
+### Day 26-28: May 1, 2020
+
+**Today's Progress**: Went through Recursion, Multiple Return Values, Errors, Function Values and Anonymous Functions of Chapter 5 in The Go Programming Language.
+
+**Thoughts:** Really liking Go's treatment of errors as values. Also learned why I didn't succeed in using function variables for recursion becuase of the way the scoping is handled.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book

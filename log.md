@@ -214,11 +214,20 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
 
-### Day 26-28: May 1, 2020
+### Day 26: May 1, 2020
 
 **Today's Progress**: Went through Recursion, Multiple Return Values, Errors, Function Values and Anonymous Functions of Chapter 5 in The Go Programming Language.
 
 **Thoughts:** Really liking Go's treatment of errors as values. Also learned why I didn't succeed in using function variables for recursion becuase of the way the scoping is handled.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 27: May 3, 2020
+
+**Today's Progress**: Finished up Chapter 5, Functions, of The Go Programming Language. Interesting to learn the nuances of panic and recover, and that errors should be preferred wherever possible.
+
+**Thoughts:** The astute among you will notice that the last few days don't follow chronologically. This is because I realized that this challenge (100 Days of Code) is not a competition and that it's okay if I can't get to the 1-hour a day commitment. The important part is that I try and have the perseverance to complete the 100 days, even though they may not be consecutive.
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book

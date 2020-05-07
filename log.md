@@ -231,3 +231,21 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
+
+### Day 28: May 4, 2020
+
+**Today's Progress**: Finished Chapter 6, Methods. I’ve always believed in composition over inheritance and I especially like Go’s decision to be able to add methods to any type. Next up: Interfaces!
+
+**Thoughts:** Slow and steady wins the race.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 29: May 7, 2020
+
+**Today's Progress**: Finished Chapter 7, Interfaces. I'm generally not a huge fan of OOP, especially overuse of the concepts, but I find Golang's approach refreshing. This sums it up beautifully: "A good rule of thumb for interface design is ask only for what you need."
+
+**Thoughts:** This was quite a lenghty chapter with a lot of information. I'm pretty sure I'll need to revisit it whenever I come across a complicated use case of interfaces. But hey, that's why it's called a reference book! :-) #AmIRight
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book

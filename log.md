@@ -249,3 +249,12 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
+
+### Day 30: May 11, 2020
+
+**Today's Progress**: Finished Chapter 8, Goroutines and Channels. It's definitely apparent that the language designers paid a lot of attention to concurrency in Go. It's definitely something to get use to, but it's clear that a lot of power lie in these seemingly simple constructs.
+
+**Thoughts:** This was a pretty hectic chapter. Conceptually I understand channels, but it's definitely a concept that I'll need a lot of practice with before I'll be comfortable with it.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book

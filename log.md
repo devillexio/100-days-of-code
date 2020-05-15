@@ -258,3 +258,12 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
+
+### Day 31: May 14, 2020
+
+**Today's Progress**: Finished Chapter 9, Concurrency with Shared Variables. It was really interesting to learn more about the differences between Goroutines and Threads, and the associated design choices. A lot of the complexity abstracted away, in a good way!
+
+**Thoughts:** We continued our deep dive into concurrency. I have a feeling that it's the part of the language that takes the longest to master, but I can already see that it will be well worth it!
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book

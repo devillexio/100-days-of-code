@@ -267,3 +267,21 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
+
+### Day 32: May 15, 2020
+
+**Today's Progress**: Finished Chapter 10, Packages and Go Tooling. I've always been impressed with the quality of the tooling that comes with Go. Was nice to learn about it in more detail!
+
+**Thoughts:** I think concurrency is one of the topics that I'll need to spend the most time on before I'll truely understand it. I've seen some great illustrations online that I think really help me visualize what's actually happening.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 33: May 20, 2020
+
+**Today's Progress**: Day 33: Finished Chapter 11, Testing. Took my time with this chapter and really enjoyed it. I'm surprised at how simple, yet powerful, the testing toolset and approach is in Go. Complete opposite of the "everything and the kitchen sink" approach I know from Node.js
+
+**Thoughts:** Man I love testing. I've seen it save my ass so many times. It's also great showing the value to someone else and seeing that "aha" moment when they realize how powerful tests, done right, can be. One of the things that remind me what I love about programming.
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book

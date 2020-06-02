@@ -279,9 +279,38 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 
 ### Day 33: May 20, 2020
 
-**Today's Progress**: Day 33: Finished Chapter 11, Testing. Took my time with this chapter and really enjoyed it. I'm surprised at how simple, yet powerful, the testing toolset and approach is in Go. Complete opposite of the "everything and the kitchen sink" approach I know from Node.js
+**Today's Progress**: Finished Chapter 11, Testing. Took my time with this chapter and really enjoyed it. I'm surprised at how simple, yet powerful, the testing toolset and approach is in Go. Complete opposite of the "everything and the kitchen sink" approach I know from Node.js
 
 **Thoughts:** Man I love testing. I've seen it save my ass so many times. It's also great showing the value to someone else and seeing that "aha" moment when they realize how powerful tests, done right, can be. One of the things that remind me what I love about programming.
 
 **Link to work:**
 - [The Go Programming Language](https://www.gopl.io) book
+
+### Day 34: May 23, 2020
+
+**Today's Progress**: Finished The Go Programming Language Book! The last two chapters were on reflection and low-level programming. I think the book summed it up best: "Write some substantial Go programs. Avoid reflect and unsafe; come back to these chapters only if you must." 
+
+**Thoughts:** Really enjoyed the book and it's a great reference to have. Going to move onto a slightly different book, before eventually reading "Concurrency in Go: Tools and Techniques for Developers" by Katherine Cox-Buday
+
+**Link to work:**
+- [The Go Programming Language](https://www.gopl.io) book
+
+### Day 35: May 23, 2020
+
+**Today's Progress**: Been a while since I updated here, but I've been busy implementing data structures in #golang. Did a queue, stack and linked list with tests for all of them. Enjoying the change of pace. Not posting every day, but then again, it's not a race. 
+
+**Thoughts:** I'm currently reading "[De-Coding The Technical Interview Process](https://technicalinterviews.dev)" book by @emmabostian, and as a challenge I decided to try and solve the problems in Golang.
+
+**Link to work:**
+- [dcttip-golang](https://github.com/devillexio/dcttip-golang)
+- [De-Coding The Technical Interview Process](https://technicalinterviews.dev)
+
+### Day 36: June 1, 2020
+
+**Today's Progress**: Continued with data structures and implemented a graph for the first time, and in Go nonetheless!
+
+**Thoughts:** First time encountering a graph data structure. Really starting to get the hang of testing in Golang.
+
+**Link to work:**
+- [dcttip-golang](https://github.com/devillexio/dcttip-golang)
+- [De-Coding The Technical Interview Process](https://technicalinterviews.dev)

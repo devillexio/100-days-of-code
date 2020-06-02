@@ -314,3 +314,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [dcttip-golang](https://github.com/devillexio/dcttip-golang)
 - [De-Coding The Technical Interview Process](https://technicalinterviews.dev)
+
+### Day 37: June 2, 2020
+
+**Today's Progress**: Started implementing a Binary Search Tree. This has always been a bit of a weakness. Got the adding of new nodes down, will be looking at removing nodes next.
+
+**Thoughts:** Working with tree structures has always been a weakness for me. I think it's also one of those things where it's likely better to find an optimized solution rather than trying to reinvent the wheel. This is especially true for production application where performance and reliability is important. Still very interesting problem to solve.
+
+**Link to work:**
+- [dcttip-golang](https://github.com/devillexio/dcttip-golang)
+- [De-Coding The Technical Interview Process](https://technicalinterviews.dev)

@@ -324,3 +324,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [dcttip-golang](https://github.com/devillexio/dcttip-golang)
 - [De-Coding The Technical Interview Process](https://technicalinterviews.dev)
+
+### Day 38: June 3, 2020
+
+**Today's Progress**: Finished working on the Binary Search Tree and implemented the functionality of removing nodes. Definitely more trickier than adding nodes. Bonus was that I got to use Delve to help find a silly mistake while debugging the code in VSCode!
+
+**Thoughts:** Relied heavily on the instructions from the book. Still a lot of fun to solve. Was also pleasantly surprised at how easy it was to debug the test I wrote for the remove function using Delve and VSCode. Definitely missed using debugging tools and stepping through code.
+
+**Link to work:**
+- [dcttip-golang](https://github.com/devillexio/dcttip-golang)
+- [De-Coding The Technical Interview Process](https://technicalinterviews.dev)

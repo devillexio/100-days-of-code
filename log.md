@@ -334,3 +334,9 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [dcttip-golang](https://github.com/devillexio/dcttip-golang)
 - [De-Coding The Technical Interview Process](https://technicalinterviews.dev)
+
+### Day 39: June 22, 2020
+
+**Today's Progress**: Been a while, but decided that for the next part of this Golang journey I'm going to work through the excellent [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ) series by [@francesc](https://twitter.com/francesc), starting with #1 A Code Review.
+
+**Thoughts:** I've been meaning to checkout this series and decided to try and get to a video a day for the next part of this challenge.

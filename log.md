@@ -350,3 +350,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 41: June 24, 2020
+
+**Today's Progress**: Watched JustForFunc #3. Really enjoyed the "automagic" gatekeeper for your front door. Also completed another 3 exercism challenges: Leap, Triangle and Proverb.
+
+**Thoughts:** Day 2 of this new "theme", but really liking it. The change of pace between watching videos and coding a couple of challenges is really working for me.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)

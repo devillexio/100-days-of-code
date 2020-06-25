@@ -360,3 +360,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 42: June 25, 2020
+
+**Today's Progress**: Watched JustForFunc #4. I really enjoyed another code review video. Also completed another 4 exercism challenges: RNA Transcription, Nucleotide Count, Accumulate and Roman Numerals.
+
+**Thoughts:** To quote Joe Dirt: Still digging it!
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)

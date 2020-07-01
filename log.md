@@ -400,3 +400,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 46: June 30, 2020 
+
+**Today's Progress**: Watched JustForFunc #8, the final ep of the "Flappy Gopher" series. Lots of fun problems that were solved implementing the game. Also completed another two exercism.io challenges: Reverse String and Pangram.
+
+**Thoughts:** Another day, another cool vid and challenge done! Also learned what a pangram is as a bonus!
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)

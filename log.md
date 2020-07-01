@@ -410,3 +410,13 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 47: July 1, 2020 
+
+**Today's Progress**: Watched JustForFunc #9 and learned about Context in Golang. Also completed another two exercism.io challenges: Anagram and Word Count.
+
+**Thoughts:** Happy Canada Day! Can't believe we've been here for more than a year! So grateful to call this beautiful place our home!
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)

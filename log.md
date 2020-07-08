@@ -430,3 +430,34 @@ I also decided to rather create another snake than to update the wall-hugging Sa
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 49: July 3, 2020 
+
+**Today's Progress**: Watched JustForFunc #11: Enjoyed the code review of an IRC client. Haven't used IRC in more than a decade! #blastfromthepast
+Also completed another challenge on http://exercism.io: Sum of Multiples
+
+**Thoughts:** Not always easy staying motivated, but gotta keep on keepin' on.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 50: July 6, 2020 
+
+**Today's Progress**: Watched JustForFunc #12: Enjoyed the intro to gRPC! Also completed another challenge on http://exercism.io: Pythagorean Triplet
+
+**Thoughts:** Made it to Day 50! It's been quite the journey. Took a few days off to relax.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 51: July 7, 2020 
+
+**Today's Progress**: Watched JustForFunc #13: Enjoyed the intro to cgo and docker multi-stage builds. Also completed another challenge on exercism.io: Largest Series Product
+
+**Thoughts:** Made it to Day 50! It's been quite the journey. Took a few days off to relax.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)

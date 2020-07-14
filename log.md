@@ -461,3 +461,13 @@ Also completed another challenge on http://exercism.io: Sum of Multiples
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 52: July 13, 2020 
+
+**Today's Progress**: Back after a bit of a break. Watched JustForFunc #14: Was cool to see a Twitter bot implemented since I'm quite familiar with the Twitter API. Also completed another challenge on http://exercism.io: Nth Prime 
+
+**Thoughts:** Last week was quite busy, but I'm looking forward to adding a few days this week.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)

@@ -471,3 +471,33 @@ Also completed another challenge on http://exercism.io: Sum of Multiples
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 53: July 13, 2020 
+
+**Today's Progress**: Watched JustForFunc #15: I like the code review episodes and it's great to get insight into what the presenter looks for while doing a review. Also completed another challenge on http://exercism.io: ISBN Verifier #100DaysOfCode
+
+**Thoughts:** I enjoy the code review episodes of JustForFunc.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 54: July 14, 2020 
+
+**Today's Progress**: Completed another http://exercism.io challenge: Crypto Square
+
+**Thoughts:** This challenge took quite a bit longer than what I'm used to.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 55: July 16, 2020 
+
+**Today's Progress**: Watched JustForFunc #16. Probably my favourite episode yet! Super interesting seeing the basics of testing in Golang applied to HTTP handlers and routing. Also completed another http://exercism.io challenge: Atbash Cipher
+
+**Thoughts:** I'm quite enjoying the cipher challenges. Looking forward to the next one.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)

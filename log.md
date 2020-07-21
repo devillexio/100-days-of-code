@@ -501,3 +501,12 @@ Also completed another challenge on http://exercism.io: Sum of Multiples
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 56: July 20, 2020 
+
+**Today's Progress**: Watched JustForFunc #16. Probably my favourite episode yet! Super interesting seeing the basics of testing in Golang applied to HTTP handlers and routing. Also completed another http://exercism.io challenge: Atbash Cipher
+
+**Thoughts:** This was my least favorite cipher-based exercise so far. I think there could have been better instructions or at least an actual project stub to start from. I ended having to look at another user's solution.
+
+**Link to work:**
+- [exercism.io](https://exercism.io/profiles/devillexio)

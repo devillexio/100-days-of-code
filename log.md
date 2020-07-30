@@ -510,3 +510,21 @@ Also completed another challenge on http://exercism.io: Sum of Multiples
 
 **Link to work:**
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 57: July 28, 2020 
+
+**Today's Progress**: Completed another http://exercism.io challenge: Simple Cipher.
+
+**Thoughts:** Taking it easy. Only focussing on exercism.io.
+
+**Link to work:**
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 56: July 29, 2020 
+
+**Today's Progress**: Completed another http://exercism.io challenge: Rotational Cipher.
+
+**Thoughts:** Taking it easy. Only focussing on exercism.io.
+
+**Link to work:**
+- [exercism.io](https://exercism.io/profiles/devillexio)

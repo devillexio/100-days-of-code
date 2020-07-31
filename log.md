@@ -520,11 +520,21 @@ Also completed another challenge on http://exercism.io: Sum of Multiples
 **Link to work:**
 - [exercism.io](https://exercism.io/profiles/devillexio)
 
-### Day 56: July 29, 2020 
+### Day 58: July 29, 2020 
 
 **Today's Progress**: Completed another http://exercism.io challenge: Rotational Cipher.
 
 **Thoughts:** Taking it easy. Only focussing on exercism.io.
 
 **Link to work:**
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 59: July 30, 2020 
+
+**Today's Progress**: Watched justforfunc episode 17 and learned how to contribute to the Go project. Also completed another http://exercism.io challenge: Secret Handshake
+
+**Thoughts:** Enjoyed todays JustForFunc. Found it interesting the process used to automate the code review process. Francesc is a great teacher.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)

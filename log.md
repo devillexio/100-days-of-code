@@ -538,3 +538,23 @@ Also completed another challenge on http://exercism.io: Sum of Multiples
 **Link to work:**
 - [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 60: August 1, 2020 
+
+**Today's Progress**: Watched justforfunc episode 18 and learned the reason why type aliases were introduced in #GoLang. Also completed another exercism.io challenge: Sieve
+
+**Thoughts:** I liked the history behind the introduction of type aliases.
+
+**Link to work:**
+- [JustForFunc](https://www.youtube.com/playlist?list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ)
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 61: August 2, 2020 
+
+**Today's Progress**: Completed another exercism.io
+ challenge: Perfect Number
+
+**Thoughts:** Quick one today before a day out of activities!
+
+**Link to work:**
+- [exercism.io](https://exercism.io/profiles/devillexio)

@@ -558,3 +558,23 @@ Also completed another challenge on http://exercism.io: Sum of Multiples
 
 **Link to work:**
 - [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 62: August 3, 2020 
+
+**Today's Progress**: Completed another exercism.io
+ challenge: Allergies
+
+**Thoughts:** Lazy public holiday, but did something towards the challenge!
+
+**Link to work:**
+- [exercism.io](https://exercism.io/profiles/devillexio)
+
+### Day 63: August 4, 2020 
+
+**Today's Progress**: Completed another exercism.io
+ challenge: All Your Base
+
+**Thoughts:** This was a bit more involved than I anticipated, but kudos to the creator of the challenge for the comprehensive tests! I also appreciated the meme reference!
+
+**Link to work:**
+- [exercism.io](https://exercism.io/profiles/devillexio)
